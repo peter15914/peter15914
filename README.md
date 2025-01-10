@@ -4,7 +4,7 @@
 
 ## Top Projects I've Contributed To
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raysan5&repo=raylib)](https://github.com/peter15914/raylib)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raysan5&repo=raylib)](https://github.com/raysan5/raylib)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jarun&repo=nnn)](https://github.com/jarun/nnn)
 
@@ -26,11 +26,11 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netblue30&repo=firejail)](https://github.com/netblue30/firejail)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AFLplusplus&repo=AFLplusplus)](https://github.com/AFLplusplus/AFLplusplus)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neutrinolabs&repo=xrdp)](https://github.com/neutrinolabs/xrdp)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ponylang&repo=ponyc)](https://github.com/ponylang/ponyc)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AFLplusplus&repo=AFLplusplus)](https://github.com/AFLplusplus/AFLplusplus)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clibs&repo=clib)](https://github.com/clibs/clib)
 
