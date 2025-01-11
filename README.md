@@ -10,6 +10,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phpredis&repo=phpredis)](https://github.com/phpredis/phpredis)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=libvips&repo=libvips)](https://github.com/libvips/libvips)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=libgit2&repo=libgit2)](https://github.com/libgit2/libgit2)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicbarker&repo=clay)](https://github.com/nicbarker/clay)
