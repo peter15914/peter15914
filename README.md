@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=peter15914&show_icons=true&bg_color=00000000&hide=stars&hide_rank=true)
-
 ## Top Projects I've Contributed To
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raysan5&repo=raylib)](https://github.com/raysan5/raylib)
