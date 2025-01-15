@@ -6,6 +6,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jarun&repo=nnn)](https://github.com/jarun/nnn)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dotnet&repo=runtime)](https://github.com/dotnet/runtime)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fastfetch-cli&repo=fastfetch)](https://github.com/fastfetch-cli/fastfetch)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phpredis&repo=phpredis)](https://github.com/phpredis/phpredis)
