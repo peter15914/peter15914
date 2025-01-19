@@ -20,6 +20,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pocoproject&repo=poco)](https://github.com/pocoproject/poco)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Syllo&repo=nvtop)](https://github.com/Syllo/nvtop)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meetecho&repo=janus-gateway)](https://github.com/meetecho/janus-gateway)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=htop-dev&repo=htop)](https://github.com/htop-dev/htop)
