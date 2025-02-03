@@ -10,6 +10,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fastfetch-cli&repo=fastfetch)](https://github.com/fastfetch-cli/fastfetch)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=libevent&repo=libevent)](https://github.com/libevent/libevent)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phpredis&repo=phpredis)](https://github.com/phpredis/phpredis)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=libvips&repo=libvips)](https://github.com/libvips/libvips)
