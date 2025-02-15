@@ -42,4 +42,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gnucash&repo=gnucash)](https://github.com/Gnucash/gnucash)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elfmz&repo=far2l)](https://github.com/elfmz/far2l)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dotnet&repo=runtime-assets)](https://github.com/dotnet/runtime-assets)
