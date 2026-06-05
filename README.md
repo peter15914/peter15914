@@ -2,6 +2,8 @@
 
 ## Top Projects I've Contributed To
 
+https://github.com/ClickHouse/ClickHouse
+
 https://github.com/raysan5/raylib
 
 https://github.com/jarun/nnn
